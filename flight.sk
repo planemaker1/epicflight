@@ -1,0 +1,20 @@
+#==========================#
+#     Made by planemaker1
+#    discord.gg/u7jbzy82GD
+# Please dont steal the Skript
+#==========================#
+options:
+	prefix: &cFly »
+
+command /fly:
+    permission: fly
+    Trigger:
+        If {fly.%player%} is not set:
+            Send "{@prefix} &fFlight mode is now &aenabled&f." to player
+            set player's flight mode to true
+            Set {fly.%player%} to true
+            Stop
+        Send "{@prefix} &fFlight mode is now &cdisabled&f." to player
+        set player's flight mode to false
+        Delete {fly.%player%}
+        Stop
