@@ -11,3 +11,6 @@ Permission: fly
 Dont forget to join my Discord Server:
 There you can get help with skripts and also chat with the community
 https://discord.gg/u7jbzy82GD
+
+The Link download is on the Spigot page:
+spigot
