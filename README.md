@@ -13,4 +13,4 @@ There you can get help with skripts and also chat with the community
 https://discord.gg/u7jbzy82GD
 
 The Link download is on the Spigot page:
-spigot
+[Click Here](https://www.spigotmc.org/resources/epic-flight.114349/)
